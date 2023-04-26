@@ -16,7 +16,7 @@
             @apply px-5 py-3 rounded-md border border-slate-400 outline-none
         }
         button {
-            @apply px-5 py-3 rounded-md bg-indigo-500 text-white text-xl transition duration-200 hover:bg-indigo-600 active:scale-90 active:opacity-70  
+            @apply px-5 py-3 rounded-md bg-indigo-500 text-white text-xl transition duration-200 hover:bg-indigo-600 active:scale-90 active:opacity-70 disabled:opacity-70 
         }
     }
 }
